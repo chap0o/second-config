@@ -1,2 +1,2 @@
-# .config
-current config using EndeavourOS and bspwm
+# config 2
+second config using EndeavourOS and bspwm
